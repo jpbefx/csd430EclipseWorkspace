@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:00:00:38 -0600] "GET /bailey-Mod3/baileyJSP_32.jsp HTTP/1.1" 200 929
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:00:04:05 -0600] "GET /bailey-Mod3/baileyJSP_32.jsp HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:00:04:30 -0600] "GET /bailey-Mod3/baileyJSP_32.jsp HTTP/1.1" 200 986

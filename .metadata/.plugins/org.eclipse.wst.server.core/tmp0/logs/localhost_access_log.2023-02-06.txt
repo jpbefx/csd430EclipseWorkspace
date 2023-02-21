@@ -1,0 +1,6 @@
+127.0.0.1 - - [06/Feb/2023:23:29:46 -0600] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:23:33:28 -0600] "GET /test/req_getInputStream.jsp HTTP/1.1" 200 532
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:23:33:28 -0600] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:23:33:43 -0600] "POST /test/req_getInputStream.jsp HTTP/1.1" 200 887
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:23:35:06 -0600] "GET /test/req_getReader.jsp HTTP/1.1" 200 513
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:23:35:10 -0600] "POST /test/req_getReader.jsp HTTP/1.1" 200 574
