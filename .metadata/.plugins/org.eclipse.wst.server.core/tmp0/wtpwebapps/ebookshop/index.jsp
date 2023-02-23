@@ -19,7 +19,7 @@
   <hr/><p/>
 <%  // Scriptlet 1: check whether the book list is ready
   Vector booklist =
-      (Vector<ebookshop.Book>)session.getAttribute("ebookshop.list");
+      (Vector<Book>)session.getAttribute("ebookshop.list");
   if (booklist == null) {
     response.sendRedirect("/ebookshop/eshop");
     }
@@ -40,8 +40,8 @@
       </form>
     <p/>
 <%  // Scriptlet 3: check whether the shopping cart is empty
-    Vector<ebookshop.Book> shoplist =
-        (Vector<ebookshop.Book>)session.getAttribute("ebookshop.cart");
+    Vector<Book> shoplist =
+        (Vector<Book>)session.getAttribute("ebookshop.cart");
     if (shoplist != null  &&  shoplist.size() > 0) {
   %>
       <table border="1" cellpadding="2">
