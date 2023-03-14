@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet.http(HttpServletResponse.class[HttpServletResponse" modifiers="1537" timestamp="1672984473401"/>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet(ServletConfig.class[ServletConfig" modifiers="1537" timestamp="1672984473401"/>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet(ServletContext.class[ServletContext" modifiers="1537" timestamp="1672984473401"/>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet(RequestDispatcher.class[RequestDispatcher" modifiers="1537" timestamp="1672984473401"/>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet.http(HttpServletRequest.class[HttpServletRequest" modifiers="1537" timestamp="1672984473401"/>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet(Servlet.class[Servlet" modifiers="1537" timestamp="1672984473401"/>
+    <typeInfo handle="=ebookshop1/C:\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet.http(HttpSession.class[HttpSession" modifiers="1537" timestamp="1672984473401"/>
+</typeInfoHistroy>

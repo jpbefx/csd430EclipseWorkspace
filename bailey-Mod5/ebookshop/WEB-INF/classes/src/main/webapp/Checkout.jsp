@@ -19,6 +19,7 @@
       <td align="right">QUANTITY</td>
       </tr>
 <%
+	@SuppressWarnings("unchecked")
     Vector<Book> shoplist =
         (Vector<Book>)session.getAttribute("ebookshop.cart");
     for (Book anOrder : shoplist) {
