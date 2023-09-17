@@ -13,6 +13,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\xampp\htdocs\JakartaEEWebDevelopment_Practice-and-Listings"/>
+			<item value="C:\Users\jpbef\OneDrive\Documents\Bellevue\CSD430\bailey-CSD430Worspace2020_03"/>
+			<item value="C:\Users\jpbef\OneDrive\Documents\Bellevue\CSD430\csd430EclipseWorkspace\TextbookGitHub\beginning-jakarta-ee-web-dev"/>
 			<item value="C:\Users\jpbef\OneDrive\Documents\Bellevue\CSD430\bailey-CSD430Workspace"/>
 			<item value="C:\Users\jpbef\OneDrive\Documents\Bellevue\CSD430\csd430EclipseWorkspace\eshop"/>
 			<item value="C:\Users\jpbef\OneDrive\Documents\Bellevue\CSD430\csd430EclipseWorkspace\bailey-Mod5\eshop"/>

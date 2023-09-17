@@ -1,20 +1,9 @@
 INDEX VERSION 1.4+C:\Users\jpbef\OneDrive\Documents\Bellevue\CSD430\csd430EclipseWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2607679576.index
-1114081190.index
-571853903.index
-2880095975.index
-1543177448.index
-3271193799.index
-587741692.index
-774211906.index
-1685926032.index
-2895280898.index
 2410602175.index
-1649705447.index
-2517454135.index
-2856153591.index
-3472613674.index
-2138350792.index
-4141552469.index
-938760633.index
 3081916661.index
+1685926032.index
+1184514659.index
+3472613674.index
+1114081190.index
+4075752640.index
+774211906.index
